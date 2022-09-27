@@ -1,0 +1,25 @@
+Q2)PROGRAM TO MULTIPLY 2 NUMBERS
+
+INPUT:
+
+#include <stdio.h>
+int main()
+{
+  double a,b,product;
+  printf("Enter two numbers: ");
+  scanf("%lf %lf", &a, &b);
+  
+  //Calculating product
+  product=a*b;
+  
+  printf("Product=%.2lf", problem);
+  
+  return 0;
+}
+
+
+OUTPUT:
+
+Enter two numbers: 1.50 2.0
+Product = 3.00
+
