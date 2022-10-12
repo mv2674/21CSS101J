@@ -1,6 +1,6 @@
-Q14) PROGRAM USING INCREMENT OPERATORS
+//Q14) PROGRAM USING INCREMENT OPERATORS
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 
@@ -10,6 +10,6 @@ int main() {
   return 0;
 }
 
-OUTPUT:
+//OUTPUT:
 
-6
+//6
