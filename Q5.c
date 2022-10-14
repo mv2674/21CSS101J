@@ -1,6 +1,6 @@
-Q5) PROGRAM TO PRINT AN INTEGER
+//Q5) PROGRAM TO PRINT AN INTEGER
 
-INPUT: 
+//INPUT: 
 
 #include <stdio.h>
 int main()
@@ -12,7 +12,7 @@ int main()
   return 0;
 }
 
-OUTPUT:
+//OUTPUT:
  
- Enter an integer: 25
- You entered 25
+//Enter an integer: 25
+//You entered 25
