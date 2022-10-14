@@ -1,6 +1,6 @@
-Q19) PROGRAM A DECREMENT OPERATOR FOR A 3 DIGIT NUMBER
+//Q19) PROGRAM A DECREMENT OPERATOR FOR A 3 DIGIT NUMBER
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 
@@ -10,6 +10,6 @@ int main() {
   return 0;
 }
 
-OUTPUT:
+//OUTPUT:
 
-420
+//420
