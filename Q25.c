@@ -1,6 +1,6 @@
-Q25) PROGRAM TO PRINT LOGICAL OPERATORS
+//Q25) PROGRAM TO PRINT LOGICAL OPERATORS
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 int main()
@@ -14,6 +14,6 @@ int main()
 }
 
 
-OUTPUT:
+//OUTPUT:
 
-(a == b) && (c < b) is 0
+//(a == b) && (c < b) is 0
