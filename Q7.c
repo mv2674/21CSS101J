@@ -1,6 +1,6 @@
-Q7) PROGRAM TO CREATE A INTEGER VARIABLE AND PRINT IT
+//Q7) PROGRAM TO CREATE A INTEGER VARIABLE AND PRINT IT
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 
@@ -10,6 +10,6 @@ int main() {
   return 0;
 }
 
-OUTPUT:
+//OUTPUT:
 
-15
+//15
