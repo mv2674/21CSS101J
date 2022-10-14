@@ -1,8 +1,8 @@
-Q16) PROGRAM USING LOGICAL OPERATORS
+//Q16) PROGRAM USING LOGICAL OPERATORS
 
-INPUT:
+//INPUT:
 
-#include <stdio.h>
+//#include <stdio.h>
 
 int main() {
   int x = 5;
@@ -14,6 +14,6 @@ int main() {
 }
 
 
-OUTPUT:
+//OUTPUT:
 
-1
+//1
