@@ -1,7 +1,7 @@
-Q6) PROGRAM TO PRINT A MOTIVATIONAL QUOTE
+//Q6) PROGRAM TO PRINT A MOTIVATIONAL QUOTE
 
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 
@@ -11,6 +11,6 @@ int main()
   return 0;
   }
   
-OUTPUT:
+//OUTPUT:
 
-Aspire to inspire before we expire
+//Aspire to inspire before we expire
