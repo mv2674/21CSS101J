@@ -1,6 +1,6 @@
-Q17) PROGRAM TO PRINT THE REMAINDER AFTER DIVIDING
+//Q17) PROGRAM TO PRINT THE REMAINDER AFTER DIVIDING
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 
@@ -11,6 +11,6 @@ int main() {
   return 0;
 }
 
-OUTPUT:
+//OUTPUT:
 
-1
+//1
