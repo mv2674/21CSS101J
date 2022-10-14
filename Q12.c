@@ -1,6 +1,6 @@
-Q12) PROGRAM TO SHOW SUBTRACTION OPERATOR
+//Q12) PROGRAM TO SHOW SUBTRACTION OPERATOR
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 
@@ -12,6 +12,6 @@ int main() {
 }
 
 
-OUTPUT:
+//OUTPUT:
 
-2
+//2
