@@ -1,6 +1,6 @@
-Q3) PROGRAM TO PRINT A SMALL POEM WITH EACH VERSE IN NEW LINES.
+//Q3) PROGRAM TO PRINT A SMALL POEM WITH EACH VERSE IN NEW LINES.
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 
@@ -15,11 +15,11 @@ int main()
  }
  
  
-OUTPUT:
+//OUTPUT:
  
-Our life is like, 
-a thorny rose 
-Not perfect, 
-but always beautiful 
+//Our life is like, 
+//a thorny rose 
+//Not perfect, 
+//but always beautiful 
 
  
