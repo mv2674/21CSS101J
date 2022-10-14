@@ -1,6 +1,6 @@
-Q11) PROGRAM USING ADDITION OPERATOR
+//Q11) PROGRAM USING ADDITION OPERATOR
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 
@@ -11,7 +11,7 @@ int main() {
 }
 
 
-OUTPUT:
+//OUTPUT:
 
-150
+//150
  
