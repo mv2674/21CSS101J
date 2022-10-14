@@ -1,6 +1,6 @@
-Q29) PROGRAM USING LOGICAL OPERATORS
+//Q29) PROGRAM USING LOGICAL OPERATORS
 
-INPUT:
+//INPUT:
 
 
 #include <stdio.h>
@@ -12,6 +12,6 @@ int main()
 }
 
 
-OUTPUT:
+//OUTPUT:
 
-!(a == b) is 0 
+//!(a == b) is 0 
