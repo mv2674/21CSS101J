@@ -1,7 +1,7 @@
-Q27) PROGRAM TO PRINT LOGICAL OPERATORS
+//Q27) PROGRAM TO PRINT LOGICAL OPERATORS
 
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 int main()
@@ -12,7 +12,7 @@ int main()
     return 0;
 }
 
-OUTPUT:
+//OUTPUT:
 
-(a != b) || (c < b) is 0
+//(a != b) || (c < b) is 0
   
