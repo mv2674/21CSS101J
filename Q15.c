@@ -1,6 +1,6 @@
-Q15) PROGRAM USING DECREMENT OPERATOR
+//Q15) PROGRAM USING DECREMENT OPERATOR
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 
@@ -10,6 +10,6 @@ int main() {
   return 0;
 }
 
-OUTPUT:
+//OUTPUT:
 
-4
+//4
