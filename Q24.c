@@ -1,7 +1,7 @@
-Q24) PROGRAM TO PRINT LOGICAL OPERATORS
+//Q24) PROGRAM TO PRINT LOGICAL OPERATORS
 
 
-INPUT:
+//INPUT:
 
 // Working of logical operators
 
@@ -17,6 +17,6 @@ int main()
 }
 
 
-OUTPUT:
+//OUTPUT:
 
-(a == b) && (c > b) is 1
+//(a == b) && (c > b) is 1
