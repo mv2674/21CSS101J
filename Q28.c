@@ -1,6 +1,6 @@
-Q28) PROGRAM TO PRINT USING LOGICAL OPERATORS
+//Q28) PROGRAM TO PRINT USING LOGICAL OPERATORS
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 int main()
@@ -11,6 +11,6 @@ int main()
     return 0;
 }
 
-OUTPUT:
+//OUTPUT:
 
-!(a != b) is 1
+//!(a != b) is 1
