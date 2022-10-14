@@ -1,6 +1,6 @@
-Q20)PROGRAM USING COMPARITIVE OPERATORS
+//Q20)PROGRAM USING COMPARITIVE OPERATORS
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 
@@ -12,6 +12,6 @@ int main() {
 }
 
 
-OUTPUT:
+//OUTPUT:
 
-1
+//1
