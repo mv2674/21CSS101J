@@ -1,6 +1,6 @@
-Q13) PROGRAM TO SHOW  DIVISION OPERATION
+//Q13) PROGRAM TO SHOW  DIVISION OPERATION
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 
@@ -12,7 +12,7 @@ int main() {
 }
 
 
-OUTPUT:
+//OUTPUT:
 
-4
+//4
 
