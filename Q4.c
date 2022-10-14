@@ -1,6 +1,6 @@
-Q4) PROGRAM TO PRINT WHOLE POEM IN SINGLE VERSE?
+//Q4) PROGRAM TO PRINT WHOLE POEM IN SINGLE VERSE?
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 int main()
@@ -13,7 +13,7 @@ int main()
 }
  
  
- OUTPUT:
+//OUTPUT:
  
- Our life is like,a thorny roseNot perfect,but always beautiful
+ //Our life is like,a thorny roseNot perfect,but always beautiful
  
