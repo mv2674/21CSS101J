@@ -1,6 +1,6 @@
-Q8) PROGRAM TO ADD A VARIABLE TO ANOTHER VARIABLE
+//Q8) PROGRAM TO ADD A VARIABLE TO ANOTHER VARIABLE
 
-INPUT:
+//INPUT:
 
 #include <stdio.h>
 
@@ -12,6 +12,6 @@ int main() {
   return 0;
 }
 
-OUTPUT:
+//OUTPUT:
 
-11
+//11
